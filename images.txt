@@ -1,4 +1,4 @@
 # qb下载
-lscr.io/linuxserver/qbittorrent:4.3.9
+lscr.io/linuxserver/qbittorrent
 # tr下载
-linuxserver/transmission:3.0.0
+linuxserver/transmission
