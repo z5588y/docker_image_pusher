@@ -1,3 +1,5 @@
+#辅种iyuu
+iyuucn/iyuuplus-dev:latest
 # 文件管理
 helloz/zdir:4
 # 自动化影音Moviepilot
@@ -71,5 +73,3 @@ lscr.io/linuxserver/qbittorrent:14.3.9
 linuxserver/transmission:amd64-version-4.0.0-r6
 #端口映射
 jeessy/ddns-go
-# 辅种iyuu
-iyuucn/iyuuplus-dev:latest
