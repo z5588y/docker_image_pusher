@@ -1,5 +1,5 @@
 # qb下载
-lscr.io/linuxserver/qbittorrent:14.3.7
+linuxserver/qbittorrent:amd64-14.3.9
 # tr下载
 linuxserver/transmission:amd64-version-4.0.0-r6
 #辅种iyuu
