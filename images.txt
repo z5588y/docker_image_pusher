@@ -1,5 +1,5 @@
 # qb下载
-lscr.io/linuxserver/qbittorrent:14.3.6
+lscr.io/linuxserver/qbittorrent:14.3.7
 # tr下载
 linuxserver/transmission:amd64-version-4.0.0-r6
 #辅种iyuu
@@ -8,5 +8,3 @@ iyuucn/iyuuplus-dev:latest
 helloz/zdir:4
 # 自动化影音Moviepilot
 jxxghp/moviepilot
-# 微信代理
-ddsderek/wxchat:latest
