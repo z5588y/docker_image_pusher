@@ -4,3 +4,5 @@ jxxghp/moviepilot-v2:latest
 helloz/zdir:4
 # 自动化影音Moviepilot
 jxxghp/moviepilot
+# qb下载
+linuxserver/qbittorrent:4.6.3-r0-ls314
