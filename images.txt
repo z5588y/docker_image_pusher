@@ -1,9 +1,5 @@
-# qb下载
-linuxserver/qbittorrent:amd64-14.3.9
-# tr下载
-linuxserver/transmission:amd64-version-4.0.0-r6
-#辅种iyuu
-iyuucn/iyuuplus-dev:latest
+# 自动化观影moviepilot-v2
+jxxghp/moviepilot-v2:latest
 # 文件管理
 helloz/zdir:4
 # 自动化影音Moviepilot
