@@ -1,8 +1,1 @@
-# 自动化观影moviepilot-v2
-jxxghp/moviepilot-v2:latest
-# 文件管理
-helloz/zdir:4
-# 自动化影音Moviepilot
-jxxghp/moviepilot
-# qb下载
-linuxserver/qbittorrent:4.6.3-r0-ls314
+gdy666/lucky
