@@ -1,1 +1,1 @@
-ypptec/nascab:latest
+ypptec/nascab
