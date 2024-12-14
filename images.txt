@@ -1,4 +1,4 @@
 # 扶墙
 mzz2017/v2raya
 # 开心版emby
-amilys/embyserver:beta
+amilys/embyserver:latest
